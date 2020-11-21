@@ -13,7 +13,7 @@ import androidx.annotation.NonNull;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewpager.widget.PagerAdapter;
 
-public class SliderAdapter extends PagerAdapter {
+public class  SliderAdapter extends PagerAdapter {
 
     Context context;
     LayoutInflater layoutInflater;
