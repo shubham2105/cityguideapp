@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">City Guide App</string>
+    <string name="slogan_name">We will help you find your way!</string>
+    <string name="logo_name">Get A Way</string>
+    <string name="powered_by">Powered By Shubham Dhole</string>
+
+    <!--Strings for On Boarding Screen -->
+
+    <!--Titles-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Missing Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+
+    <!--Descriptions-->
+    <string name="first_slide_desc">You can search any place nearby or within the specified city or all related shops to match your search.</string>
+    <string name="second_slide_desc">We provide almost all the numbers of all departments and shops registered with us.You can perform bookings as well.</string>
+    <string name="third_slide_desc">If you have a shop or business and want to be a part of our growing industry than add your place by following simple steps</string>
+    <string name="fourth_slide_desc">We will handle everything for you.As you have our app in your pocket then you don\'t have to worry about anything</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="lets_get_started">Lets Get Started</string>
+
+
+    <!--Strings for dashboard-->
+
+    <!-- Categories-->
+
+    <string name="hotels">Hotels</string>
+    <string name="Restaurants">Restaurants</string>
+    <string name="shops">Shops</string>
+    <string name="banks">Banks</string>
+    <string name="airports">Airports</string>
+
+
+    <!--Title sand description-->
+
+
+    <string name="Featured_locations"> All Featured Locations</string>
+    <string name="featured_description"> All the locations that are featured and have top demand in town!</string>
+    <string name="most_viewd_locations"> Most Viewde</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search...</string>
+
+</resources>
+
+
+
+
+
